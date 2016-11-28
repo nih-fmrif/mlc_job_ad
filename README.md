@@ -1,6 +1,4 @@
-# Advertisement for positions within the Machine Learning Core at the NIMH IRP
-
-# HIRING: machine learning in neuroimaging researcher
+# HIRING: Machine learning in neuroimaging researcher
 
 ## Who we are:
 
@@ -24,9 +22,11 @@ Experience working with neuroimaging data (MRI, as well as MEG/EEG) will be cons
 
 Finally, you should have demonstrable experience coding in languages currently used in data-intensive, scientific computing such as Python, MATLAB or R (and relevant data processing libraries).
 
-How to apply:
+##How to apply:
 
-Email your resume (your email can serve as a cover letter) to MLCORE-JOBSEARCH@mail.nih.gov. Questions are welcome. The National Institutes of Health is an equal opportunity employer.
+Email your resume (your email can serve as a cover letter) to *MLCORE-JOBSEARCH@mail.nih.gov*
+
+Questions are welcome. The National Institutes of Health is an equal opportunity employer.
 
 
    
