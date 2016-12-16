@@ -2,7 +2,7 @@
 
 ## Who we are:
 
-The National Institute of Mental Health (NIMH) is the lead federal agency for research on mental disorders. NIMH is one of the 27 Institutes and Centers that make up the National Institutes of Health (NIH), which is responsible for all federally funded biomedical research in US. NIH is part of the U.S. Department of Health and Human Services (HHS). The NIH is a highly rated employer at glassdoor.com with very competitive salary and benefits packages.
+The National Institute of Mental Health (NIMH) is the lead federal agency for research on mental disorders based in Bethesda, MD. NIMH is one of the 27 Institutes and Centers that make up the National Institutes of Health (NIH), which is responsible for all federally funded biomedical research in US. NIH is part of the U.S. Department of Health and Human Services (HHS). The NIH is a highly rated employer at glassdoor.com with very competitive salary and benefits packages.
   
 The Machine Learning Core (MLC) is a new group created to support the use of machine learning methods in analyzing human neuroimaging data, collected within the NIMH Intramural Research Program (IRP) or from functional and anatomic imaging databases worldwide. The MLC will both develop new methods and provide education and support to NIMH IRP researchers using machine learning approaches.
 
